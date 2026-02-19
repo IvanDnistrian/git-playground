@@ -5,6 +5,8 @@ Commands:
 - git add
 - git commit
 - git log --oneline
+- git diff
+
 
 Notes:
 - Working tree → Staging → Commit
