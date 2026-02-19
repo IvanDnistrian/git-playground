@@ -1,13 +1,10 @@
 # Git Playground
 
-## Practice Section
+Small repo to practice Git with:
+- notes in Markdown (docs/)
+- small Python scripts (sandbox/)
 
-This repository is used to practice Git:
-- branches
-- merge
-- conflicts
-- rebase
-Line 1
-Line 2
-Line 3
-Line 4
+## Sections
+- docs/01-basics.md
+- docs/02-branches.md
+- docs/03-rebase.md
