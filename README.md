@@ -3,7 +3,7 @@
 Small repo to practice Git with:
 - notes in Markdown (docs/)
 - small Python scripts (sandbox/)
-- practice advanced rebase techniques
+- practice interactive rebase and merge strategies
 
 
 ## Sections
