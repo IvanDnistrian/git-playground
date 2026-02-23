@@ -6,3 +6,7 @@ Commands:
 
 Goal:
 - clean history before merge
+
+Rebase demo step 1
+Rebase demo step 2
+Rebase demo step 3
