@@ -27,3 +27,6 @@ python sandbox/hello.py
 python sandbox/calc.py
 
 #test github protection
+
+Test PR routine step 1
+Test PR routine step 2
