@@ -30,3 +30,5 @@ python sandbox/calc.py
 
 Test PR routine step 1
 Test PR routine step 2
+
+LOCAL: conflict demo line
