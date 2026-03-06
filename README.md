@@ -28,7 +28,8 @@ python sandbox/calc.py
 
 #test github protection
 
-Test PR routine step 1 - FEATURE VERSION
+Test PR routine step 1 - FEATURE VERSION / MAIN VERSION
+
 Test PR routine step 2
 
 New branch test and try 1
